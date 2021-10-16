@@ -47,7 +47,23 @@
     "texunits.MixinDefaultVertexFormat",
     "texunits.MixinGlStateManager",
     "texunits.MixinLightTexture",
-    "texunits.MixinOverlayTexture"
+    "texunits.MixinOverlayTexture",
+    "bettermipmaps.MixinMipmapGenerator",
+    "bettermipmaps.MixinTextureAtlasSprite",
+    "fantastic.MixinBarrierParticle",
+    "fantastic.MixinFireworkSparkParticle",
+    "fantastic.MixinLevelRenderer",
+    "fantastic.MixinParticleEngine",
+    "fantastic.MixinTerrainParticle",
+    "vertices.MixinBufferBuilder",
+    "vertices.MixinVertexFormatElement",
+    "vertices.MixinGlStateManager",
+    "vertices.MixinVertexBuffer",
+    "vertices.MixinVertexFormat",
+    "vertices.block_rendering.MixinBufferBuilder_SeparateAo",
+    "vertices.block_rendering.MixinChunkRebuildTask",
+    "vertices.block_rendering.MixinClientLevel"
+
   ],
   "injectors": {
     "defaultRequire": 1
