@@ -1,7 +1,11 @@
-# CaffeineMC Reforged
+# CaffeineMC Reforged [EXPERIMENTAL]
 
 This is an Unofficial port of the core CaffeineMC Mods, alongside Iris.
 This is in no way related to the original mod teams, Code credit goes out to each mod's respective developers.
+
+All ports on this branch are outdated.
+This Branch Includes the untested Iris Port. Does not work with Sodium in it's Current State. 
+If used do not report issues with this branch anywhere, everything here is a massive WIP.
 
 
 CaffeineMC:
